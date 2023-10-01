@@ -1,0 +1,36 @@
+*{
+    background-color: darksalmon;
+}
+
+div {
+    display: flex;
+    width: 300px;
+    padding: 10px;
+    background-color: rgb(20, 25, 26);
+    border: 5px solid rgb(0, 0, 0);
+    margin: 0;
+  }
+  
+  div{
+      background-color: rgb(90, 104, 66);
+      color: rgb(255, 255, 255);
+  }
+
+.H, .M,.N{
+    background-color:#7f5442;
+    height: 300px;
+    display: flex;
+   
+  }
+
+
+.H img, .M img, .N img{
+    height: 250px;
+    width: 250;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+}
